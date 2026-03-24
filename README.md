@@ -1,6 +1,6 @@
 # ☕ Exercicios-DevMagro
 
-Este repositório contém as minhas resoluções para os exercícios práticos propostos no curso **"Java do básico ao júnior"**, ministrado pelo **[@devmagro]**
+Este repositório contém as minhas resoluções para os exercícios práticos propostos no curso **"Java do básico ao júnior"**, ministrado pelo **@devmagro**
 
 ## 🎯 Objetivo
 
