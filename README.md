@@ -15,17 +15,14 @@ A proposta aqui não é apenas entregar um código que funcione, mas desenvolver
 
 ## 📂 Estrutura do Repositório
 
-Os desafios estão organizados de acordo com a progressão natural do curso. *(Ajuste os nomes das pastas conforme a estrutura real do curso)*:
+Os desafios estão organizados de acordo com a progressão natural do curso:
 
 * 📁 `src/fundamentosLogica01/`: Variáveis, tipos de dados e operadores.
 * 📁 `src/estruturasDeControle02/`: Condicionais (`if/else`) e loops (`for`, `while`).
-* 📁 `src/orientacaoAObjetos03/`: Classes, atributos, métodos e encapsulamento.
-* 📁 `src/projetosPraticos04/`: Exercícios finais e mini-projetos.
 
 ## 🛠️ Stack Utilizada
 
 * **Linguagem:** Java
-* **Paradigma Principal:** Orientação a Objetos
 
 ---
 *Repositório focado em prática, repetição e consolidação de base em Java.*
